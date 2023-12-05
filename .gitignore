@@ -1,0 +1,10 @@
+
+
+
+AppRunner/bin/*
+AppRunner/obj/*
+.git/*
+.idea/*
+*.dll
+*.exe
+*.pdb
